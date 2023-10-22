@@ -1,5 +1,7 @@
 # docs.2anki.net
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6e6e37be-b10a-478f-ae96-93ca6ff87186/deploy-status)](https://app.netlify.com/sites/docs-2anki/deploys)
+
 This project is the official documentation for 2anki.net.
 
 ## 🧞 Commands
