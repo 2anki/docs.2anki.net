@@ -50,6 +50,10 @@ export default defineConfig({
               label: 'Frequently asked questions',
               link: '/troubleshooting/faq',
             },
+            {
+              label: 'Bug report',
+              link: '/troubleshooting/bug-report',
+            },
           ],
         },
         {
