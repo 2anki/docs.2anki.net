@@ -41,6 +41,18 @@ export default defineConfig({
               label: 'API',
               link: '/advanced/api',
             },
+            {
+              label: 'Domain',
+              link: '/advanced/domain',
+            },
+            {
+              label: 'New API',
+              link: '/advanced/napi',
+            },
+            {
+              label: 'Strategy',
+              link: '/advanced/strategy',
+            },
           ],
         },
         {

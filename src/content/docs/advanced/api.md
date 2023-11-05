@@ -2,7 +2,7 @@
 title: API
 ---
 
-This is work in progress documentation for the private API. Documenting it is part of opening up the API
+This is work in progress documentation for the private API on https://2anki.net/api. Documenting it is part of opening up the API
 for third-party users and making it public
 
 Unless otherwise specified in the description endpoints requires authentication.
