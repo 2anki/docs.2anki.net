@@ -33,6 +33,10 @@ export default defineConfig({
               label: 'Self-hosting',
               link: '/advanced/self-hosting',
             },
+            {
+              label: 'Terminology',
+              link: '/advanced/terminology',
+            },
           ],
         },
         {
