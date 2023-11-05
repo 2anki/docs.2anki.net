@@ -67,6 +67,10 @@ export default defineConfig({
               label: 'YouTube',
               link: '/links/youtube',
             },
+            {
+              label: 'Support',
+              link: '/links/support',
+            },
           ],
         },
       ],
