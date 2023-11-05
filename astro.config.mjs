@@ -18,6 +18,15 @@ export default defineConfig({
           ],
         },
         {
+          label: 'Advanced usage',
+          items: [
+            {
+              label: 'Self-hosting',
+              link: '/advanced/self-hosting',
+            },
+          ],
+        },
+        {
           label: 'Useful links',
           items: [
             {
