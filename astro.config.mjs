@@ -7,7 +7,7 @@ export default defineConfig({
     starlight({
       title: '2anki.net',
       social: {
-        github: 'https://github.com/withastro/starlight',
+        github: 'https://github.com/2anki/docs.2anki.net',
       },
       sidebar: [
         {
