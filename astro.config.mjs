@@ -18,6 +18,15 @@ export default defineConfig({
           ],
         },
         {
+          label: 'Features',
+          items: [
+            {
+              label: 'Notion Support',
+              link: '/features/notion-support',
+            },
+          ],
+        },
+        {
           label: 'Advanced usage',
           items: [
             {
