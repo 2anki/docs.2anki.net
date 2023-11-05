@@ -37,6 +37,10 @@ export default defineConfig({
               label: 'Terminology',
               link: '/advanced/terminology',
             },
+            {
+              label: 'API',
+              link: '/advanced/api',
+            },
           ],
         },
         {
