@@ -14,12 +14,25 @@ export default defineConfig({
           label: 'Guides',
           items: [
             { label: 'Introduction', link: '/guides/introduction' },
-            { label: 'Getting started', link: '/guides/getting-started/' },
+            { label: 'Getting started', link: '/guides/getting-started' },
           ],
         },
         {
-          label: 'Reference',
-          autogenerate: { directory: 'reference' },
+          label: 'Useful links',
+          items: [
+            {
+              label: 'Anki',
+              link: '/links/anki',
+            },
+            {
+              label: 'Community',
+              link: '/links/community',
+            },
+            {
+              label: 'YouTube',
+              link: '/links/youtube',
+            },
+          ],
         },
       ],
     }),
