@@ -3,7 +3,7 @@ title: What is 2anki.net?
 description: Introduction of 2anki.net
 ---
 
-2anki.net is a free to use service and it is a [open source project](https://github.com/2anki). 
+2anki.net is a free to use service and it is a [open source](https://github.com/2anki) project. 
 The hosted services allows you to create Anki flashcards fast.
 
 We are making it the easiest and fastest way to create beautiful ⭐️ Anki flashcards for anyone anywhere around the world 🌎

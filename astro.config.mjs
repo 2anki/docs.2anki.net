@@ -46,6 +46,10 @@ export default defineConfig({
               label: 'How to contact developer',
               link: '/troubleshooting/contact',
             },
+            {
+              label: 'Frequently asked questions',
+              link: '/troubleshooting/faq',
+            },
           ],
         },
         {
