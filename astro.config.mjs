@@ -27,6 +27,19 @@ export default defineConfig({
           ],
         },
         {
+          label: 'Troubleshooting',
+          items: [
+            {
+              label: 'Common problems and solutions',
+              link: '/troubleshooting/common-problems',
+            },
+            {
+              label: 'How to contact developer',
+              link: '/troubleshooting/contact',
+            },
+          ],
+        },
+        {
           label: 'Useful links',
           items: [
             {
