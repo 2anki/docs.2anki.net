@@ -74,6 +74,10 @@ export default defineConfig({
               label: 'Bug report',
               link: '/troubleshooting/bug-report',
             },
+            {
+                label: 'Limits',
+                link: '/troubleshooting/limits',
+            }
           ],
         },
         {
