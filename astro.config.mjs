@@ -25,12 +25,28 @@ export default defineConfig({
               link: '/features/notion-support',
             },
             {
+              label: 'Markdown',
+              link: '/features/markdown',
+            },
+            {
               label: 'HTML',
               link: '/features/html',
             },
             {
               label: 'zip',
               link: '/features/zip',
+            },
+            {
+              label: 'csv',
+              link: '/features/csv',
+            },
+            {
+              label: 'tsv',
+              link: '/features/tsv',
+            },
+            {
+              label: 'pdf',
+              link: '/features/pdf',
             },
           ],
         },
