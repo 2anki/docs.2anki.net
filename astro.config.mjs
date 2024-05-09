@@ -24,6 +24,14 @@ export default defineConfig({
               label: 'Notion Support',
               link: '/features/notion-support',
             },
+            {
+              label: 'HTML',
+              link: '/features/html',
+            },
+            {
+              label: 'zip',
+              link: '/features/zip',
+            },
           ],
         },
         {
