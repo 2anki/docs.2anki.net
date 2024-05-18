@@ -64,15 +64,9 @@ pip install --break-system-packages -r requirements.txt
 
 Navigate to the server directory and install the dependencies.
 
-```bash
-cd ../server
-npm install
-npm run build
-node src/server.js
-```
+Make sure your to add your ip address in the whitelist `src/lib/constants.ts` file.
 
-If you experience issues make sure your ip address is whitelisted in the `serc/lib/constants.ts` file.
-Also setup a environment file the server directory:
+Also setup a environment file in the server directory:
 
 ```bash
 cat >> ~/src/github.com/2anki/server/.env <<EOF
@@ -80,3 +74,12 @@ WORKSPACE_BASE=/tmp/genanki
 EOF
 mkdir -pv /tmp/genanki
 ```
+
+```bash
+cd ../server
+npm install
+npm run build
+node src/server.js
+```
+
+The server should now be running on port 2020. You can access it by visiting `http://<server-ip-address>:2020` in your browser.
