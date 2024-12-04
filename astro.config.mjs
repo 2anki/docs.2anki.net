@@ -99,9 +99,9 @@ export default defineConfig({
               link: '/troubleshooting/bug-report',
             },
             {
-                label: 'Limits',
-                link: '/troubleshooting/limits',
-            }
+              label: 'Limits',
+              link: '/troubleshooting/limits',
+            },
           ],
         },
         {
@@ -122,6 +122,15 @@ export default defineConfig({
             {
               label: 'Support',
               link: '/links/support',
+            },
+          ],
+        },
+        {
+          label: 'Misc',
+          items: [
+            {
+              label: 'Terms of Service',
+              link: '/misc/terms-of-service',
             },
           ],
         },
