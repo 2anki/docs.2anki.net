@@ -48,6 +48,10 @@ export default defineConfig({
               label: 'pdf',
               link: '/features/pdf',
             },
+            {
+              label: 'ppt',
+              link: '/features/ppt',
+            },
           ],
         },
         {
