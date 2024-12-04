@@ -132,6 +132,10 @@ export default defineConfig({
               label: 'Terms of Service',
               link: '/misc/terms-of-service',
             },
+            {
+              label: 'Privacy Policy',
+              link: '/misc/privacy-policy',
+            },
           ],
         },
       ],
