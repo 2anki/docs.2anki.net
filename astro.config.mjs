@@ -41,6 +41,10 @@ export default defineConfig({
               link: '/features/csv',
             },
             {
+              label: 'xlsx',
+              link: '/features/xlsx',
+            },
+            {
               label: 'tsv',
               link: '/features/tsv',
             },
